@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lw8", "lw8\lw8.csproj", "{277694A8-883A-4DA1-926E-1E4BF8A494BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "library", "..\lw7\library\library.csproj", "{5C0BC6D0-4607-49A4-9442-9CD903330671}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{277694A8-883A-4DA1-926E-1E4BF8A494BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{277694A8-883A-4DA1-926E-1E4BF8A494BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{277694A8-883A-4DA1-926E-1E4BF8A494BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{277694A8-883A-4DA1-926E-1E4BF8A494BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C0BC6D0-4607-49A4-9442-9CD903330671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C0BC6D0-4607-49A4-9442-9CD903330671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C0BC6D0-4607-49A4-9442-9CD903330671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C0BC6D0-4607-49A4-9442-9CD903330671}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

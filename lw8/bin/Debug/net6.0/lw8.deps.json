@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "lw8/1.0.0": {
+        "dependencies": {
+          "library": "1.0.0"
+        },
+        "runtime": {
+          "lw8.dll": {}
+        }
+      },
+      "library/1.0.0": {
+        "runtime": {
+          "library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lw8/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
